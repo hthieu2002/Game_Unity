@@ -1,0 +1,5 @@
+tuan_2/GameObject2D/GameObject2D/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text
+tuan_2/Sprites/Sprites/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text
+tuan_2/Sprites/Sprites/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+tuan_2/Sprites/Sprites/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/burst-llvm-15.dll filter=lfs diff=lfs merge=lfs -text
+tuan_2/Sprites/Sprites/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
