@@ -154,3 +154,8 @@ YarnSpinner.Tests/coverage/
 
 # Folders marked as containing non-public data
 *DoNotCommit/
+tuan_2/GameObject2D/GameObject2D/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib
+tuan_2/GameObject2D/GameObject2D/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-10.dylib
+tuan_2/GameObject2D/GameObject2D/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/burst-llvm-15.dll
+tuan_2/GameObject2D/GameObject2D/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/hostmac/dsymutil
+tuan_2/GameObject2D/GameObject2D/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.so
